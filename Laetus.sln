@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laetus", "Laetus\Laetus.csproj", "{B3E58456-948F-4D0D-8AFC-CBDD413ABAEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laetus.Tests", "Laetus.Tests\Laetus.Tests.csproj", "{45545462-97FC-4754-B10A-F919850B5A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E58456-948F-4D0D-8AFC-CBDD413ABAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E58456-948F-4D0D-8AFC-CBDD413ABAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E58456-948F-4D0D-8AFC-CBDD413ABAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E58456-948F-4D0D-8AFC-CBDD413ABAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45545462-97FC-4754-B10A-F919850B5A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45545462-97FC-4754-B10A-F919850B5A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45545462-97FC-4754-B10A-F919850B5A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45545462-97FC-4754-B10A-F919850B5A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
