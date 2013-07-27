@@ -14,7 +14,7 @@ namespace Laetus.Controllers
         private LaetusContext db = new LaetusContext();
 
         //
-        // GET: /Home/
+        // GET: /Home/ d
 
         [AllowAnonymous]
         public ActionResult Index()
