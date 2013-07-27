@@ -57,7 +57,7 @@ namespace Laetus.Controllers
                 return RedirectToAction("Index");
             }
 
-            return View(contact);
+            return View(contact);   
         }
 
         //
